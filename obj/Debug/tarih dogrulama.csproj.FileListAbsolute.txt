@@ -1,0 +1,11 @@
+C:\Users\eda öncel\Desktop\tarih dogrulama\obj\Debug\tarih dogrulama.csproj.AssemblyReference.cache
+C:\Users\eda öncel\Desktop\tarih dogrulama\obj\Debug\tarih dogrulama.csproj.SuggestedBindingRedirects.cache
+C:\Users\eda öncel\Desktop\tarih dogrulama\obj\Debug\tarih_dogrulama.Form1.resources
+C:\Users\eda öncel\Desktop\tarih dogrulama\obj\Debug\tarih_dogrulama.Properties.Resources.resources
+C:\Users\eda öncel\Desktop\tarih dogrulama\obj\Debug\tarih dogrulama.csproj.GenerateResource.cache
+C:\Users\eda öncel\Desktop\tarih dogrulama\obj\Debug\tarih dogrulama.csproj.CoreCompileInputs.cache
+C:\Users\eda öncel\Desktop\tarih dogrulama\bin\Debug\tarih dogrulama.exe.config
+C:\Users\eda öncel\Desktop\tarih dogrulama\bin\Debug\tarih dogrulama.exe
+C:\Users\eda öncel\Desktop\tarih dogrulama\bin\Debug\tarih dogrulama.pdb
+C:\Users\eda öncel\Desktop\tarih dogrulama\obj\Debug\tarih dogrulama.exe
+C:\Users\eda öncel\Desktop\tarih dogrulama\obj\Debug\tarih dogrulama.pdb
